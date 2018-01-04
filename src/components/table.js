@@ -1,4 +1,4 @@
-import React, { Component, ReactPropTypes } from 'react';
+import React, { Component } from 'react';
 
 // typescript mis ik nu 
 
@@ -26,7 +26,7 @@ const values = [
         'Gain/Loss': '100miljoen'
     }
 
-]
+];
 
 
 export default class Table extends Component {
